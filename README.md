@@ -14,7 +14,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 </summary>
 
   - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with Python, Data Analysis, Data visualization.
 
