@@ -6,11 +6,10 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Juan! 
+  Olá 👋, Eu sou o Juan! 
 
-  - 🌱 I’m currently studying Systems Analysis and Development in UAM.
+  - 🌱 Estou atualmente estudando Analise e Desenvolvimento de Sistemas pela UAM.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
 
 <!-- Dropdown -->
